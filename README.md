@@ -1,8 +1,8 @@
 # job-analayzer
 
-📊 West-Vlaamse Vacature-Analyzer (JD-R Model)
+📊 Vacature-Analyzer (JD-R Model)
 Kwantitatieve Analyse van Psychologische Werkdruk & Hulpbronnen
-Dit dashboard is ontwikkeld om de impliciete bedrijfscultuur en werkdruk van West-Vlaamse ondernemingen in kaart te brengen via vacatureteksten. Door gebruik te maken van het Job Demands-Resources (JD-R) model, vertaalt deze tool ruwe data van Indeed naar psychologische inzichten.
+Dit dashboard is ontwikkeld om de impliciete bedrijfscultuur en werkdruk van  ondernemingen in kaart te brengen via vacatureteksten. Door gebruik te maken van het Job Demands-Resources (JD-R) model, vertaalt deze tool ruwe data van Indeed naar psychologische inzichten.
 
 🧠 De Psychologische Insteek
 In de arbeidspsychologie is het JD-R model de gouden standaard voor het begrijpen van welzijn op het werk:
